@@ -39,4 +39,4 @@ The agent runs a 2-step pipeline:
    ```
 
 ## Built By
-Vocview — Week 2 of the 4-Month AI Agent Mastery Plan
+ Week 2 of the 4-Month AI Agent Mastery Plan
